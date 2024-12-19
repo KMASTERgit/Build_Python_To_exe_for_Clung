@@ -8,6 +8,10 @@ The command content is sent to the prompt and executed up to Nuitka.
 ## Caution
 This is a demo development and may contain defects. Please be aware of this.
 
+## Warning
+This application is not official.
+Unofficial app！！
+
 ## Installation
 1. Install Nuitka according to the official documentation.
    Reference: [WebSite](https://nuitka.net/user-documentation/user-manual.html)  or  [Github](https://github.com/Nuitka/Nuitka?tab=readme-ov-file)
@@ -34,6 +38,9 @@ GUI上で必要な設定・選択を行い、コマンドを生成できます�
 
 ## 注意
 デモ開発のため、不具合が含まれる可能性があります。ご了承ください。
+
+## 警告
+非公式アプリケーションです。
 
 ## インストール
 1. Nuitkaを公式ドキュメントに従いインストールしてください。
